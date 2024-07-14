@@ -15,8 +15,8 @@ class Game:
 
         # assets for game
         self.assets={
-                "bat":(100,40),
-                "ball":(30,30),
+                "bat":(60,20),
+                "ball":(10,10),
                 "player":(WIDTH / 2, HEIGHT -50),
                 "ball_speed": 300,
                 "player_speed":400,
